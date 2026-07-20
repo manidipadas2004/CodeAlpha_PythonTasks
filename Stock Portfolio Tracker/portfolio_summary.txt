@@ -1,0 +1,6 @@
+Stock Portfolio Summary
+------------------------------
+GOOGL - Quantity: 5, Price: $140, Total: $700
+MSFT - Quantity: 10, Price: $330, Total: $3300
+------------------------------
+Total Investment Value: $4000
